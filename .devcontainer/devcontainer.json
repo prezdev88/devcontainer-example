@@ -74,7 +74,10 @@
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
 				"alefragnani.Bookmarks",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"yzhang.markdown-all-in-one",
+				"mhutchie.git-graph",
+				"ZainChen.json"
 			]
 		}
 	}
